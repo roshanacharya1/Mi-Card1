@@ -1,6 +1,6 @@
 # Mi-Card
 
-A flutter app for personal info.
+Descriptive flutter page for personal info.
 
 # ScreenShot
 
