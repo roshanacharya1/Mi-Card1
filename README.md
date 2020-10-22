@@ -1,6 +1,6 @@
-# flutter_app1
+# Mi-Card
 
-I am Poor App
+A flutter app for personal info.
 
 ## Getting Started
 
