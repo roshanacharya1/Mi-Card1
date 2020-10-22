@@ -2,6 +2,10 @@
 
 A flutter app for personal info.
 
+#ScreenShot
+
+ ![](ss1.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
